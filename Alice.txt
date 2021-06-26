@@ -4,3 +4,5 @@ third line of text
 fourth line of text
 change via dev environment
 change2 via dev environment
+interactive rebase change
+second interactive rebase change
